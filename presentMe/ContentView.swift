@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct haya: View {
     var body: some View {
         VStack {
             Image("Picture1").resizable()
@@ -31,5 +31,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    haya()
 }
