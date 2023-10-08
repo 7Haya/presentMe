@@ -11,7 +11,7 @@ import SwiftUI
 struct presentMeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            haya()
         }
     }
 }
