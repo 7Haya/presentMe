@@ -20,7 +20,7 @@ struct ContentView: View {
                         )
             Text("Haya Fahad Alsabr")
                 .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
-                .foregroundColor(.gray)
+                .foregroundColor(.blue)
             Divider()
             Text("I am a 20 years old, Programming student .Who enjoy drawing and watching Anime, Im a quick learner, I love to be an accomplished person.")
                 .foregroundColor(.blue)

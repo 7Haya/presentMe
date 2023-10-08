@@ -11,6 +11,7 @@
 		671C6E772AD2E9160040D1F9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671C6E762AD2E9160040D1F9 /* ContentView.swift */; };
 		671C6E792AD2E9170040D1F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 671C6E782AD2E9170040D1F9 /* Assets.xcassets */; };
 		671C6E7C2AD2E9170040D1F9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 671C6E7B2AD2E9170040D1F9 /* Preview Assets.xcassets */; };
+		F33070132AD2EEDA0054FBC4 /* Wadha.swift in Sources */ = {isa = PBXBuildFile; fileRef = F33070122AD2EEDA0054FBC4 /* Wadha.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		671C6E762AD2E9160040D1F9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		671C6E782AD2E9170040D1F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		671C6E7B2AD2E9170040D1F9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F33070122AD2EEDA0054FBC4 /* Wadha.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wadha.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				671C6E742AD2E9160040D1F9 /* presentMeApp.swift */,
 				671C6E762AD2E9160040D1F9 /* ContentView.swift */,
+				F33070122AD2EEDA0054FBC4 /* Wadha.swift */,
 				671C6E782AD2E9170040D1F9 /* Assets.xcassets */,
 				671C6E7A2AD2E9170040D1F9 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				671C6E772AD2E9160040D1F9 /* ContentView.swift in Sources */,
 				671C6E752AD2E9160040D1F9 /* presentMeApp.swift in Sources */,
+				F33070132AD2EEDA0054FBC4 /* Wadha.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
